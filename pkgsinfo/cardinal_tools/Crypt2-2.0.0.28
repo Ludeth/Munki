@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_metadata</key>
+	<dict>
+		<key>created_by</key>
+		<string>edward.shorrock</string>
+		<key>creation_date</key>
+		<date>2016-11-01T20:52:20Z</date>
+		<key>munki_version</key>
+		<string>2.8.1.2845</string>
+		<key>os_version</key>
+		<string>10.12</string>
+	</dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>category</key>
+	<string>cardinal_tools</string>
+	<key>description</key>
+	<string>Client package for the Crypt FileVault 2 key escrow server.</string>
+	<key>developer</key>
+	<string>Graham Gilbert</string>
+	<key>display_name</key>
+	<string>Crypt 2</string>
+	<key>installed_size</key>
+	<integer>7158</integer>
+	<key>installer_item_hash</key>
+	<string>e072acca5fd387e31edb927516fef271589f92945e1b9cb89242cd1a379bb755</string>
+	<key>installer_item_location</key>
+	<string>cardinal_tools/Crypt-2.0.0.28.pkg</string>
+	<key>installer_item_size</key>
+	<integer>2728</integer>
+	<key>minimum_os_version</key>
+	<string>10.5.0</string>
+	<key>name</key>
+	<string>Crypt2</string>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>installed_size</key>
+			<integer>7158</integer>
+			<key>packageid</key>
+			<string>com.grahamgilbert.Crypt</string>
+			<key>version</key>
+			<string>2.0.0.28</string>
+		</dict>
+	</array>
+	<key>unattended_install</key>
+	<true/>
+	<key>unattended_uninstall</key>
+	<false/>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>2.0.0.28</string>
+</dict>
+</plist>

@@ -12,6 +12,55 @@
 		<key>category</key>
 		<string>cardinal_tools</string>
 		<key>description</key>
+		<string>Client package for the Crypt FileVault 2 key escrow server.</string>
+		<key>developer</key>
+		<string>Graham Gilbert</string>
+		<key>display_name</key>
+		<string>Crypt 2</string>
+		<key>installed_size</key>
+		<integer>7158</integer>
+		<key>installer_item_hash</key>
+		<string>e072acca5fd387e31edb927516fef271589f92945e1b9cb89242cd1a379bb755</string>
+		<key>installer_item_location</key>
+		<string>cardinal_tools/Crypt-2.0.0.28.pkg</string>
+		<key>installer_item_size</key>
+		<integer>2728</integer>
+		<key>minimum_os_version</key>
+		<string>10.5.0</string>
+		<key>name</key>
+		<string>Crypt2</string>
+		<key>receipts</key>
+		<array>
+			<dict>
+				<key>installed_size</key>
+				<integer>7158</integer>
+				<key>packageid</key>
+				<string>com.grahamgilbert.Crypt</string>
+				<key>version</key>
+				<string>2.0.0.28</string>
+			</dict>
+		</array>
+		<key>unattended_install</key>
+		<true/>
+		<key>unattended_uninstall</key>
+		<false/>
+		<key>uninstall_method</key>
+		<string>removepackages</string>
+		<key>uninstallable</key>
+		<true/>
+		<key>version</key>
+		<string>2.0.0.28</string>
+	</dict>
+	<dict>
+		<key>autoremove</key>
+		<false/>
+		<key>catalogs</key>
+		<array>
+			<string>testing</string>
+		</array>
+		<key>category</key>
+		<string>cardinal_tools</string>
+		<key>description</key>
 		<string>The standard NoMAD package.</string>
 		<key>developer</key>
 		<string></string>
@@ -52,6 +101,55 @@
 		<true/>
 		<key>version</key>
 		<string>0.9</string>
+	</dict>
+	<dict>
+		<key>autoremove</key>
+		<false/>
+		<key>catalogs</key>
+		<array>
+			<string>testing</string>
+		</array>
+		<key>category</key>
+		<string>networking</string>
+		<key>description</key>
+		<string>Cardinal Health implementation of the Cisco AnyConnect Client</string>
+		<key>developer</key>
+		<string>Cisco</string>
+		<key>display_name</key>
+		<string>AnyConnect VPN</string>
+		<key>installed_size</key>
+		<integer>34632</integer>
+		<key>installer_item_hash</key>
+		<string>8e9baa528af86a53f2b7b20bf88d2cf946025677ace25469637be80c66fef82c</string>
+		<key>installer_item_location</key>
+		<string>networking/cah_anyconnect-4.2.01035.pkg</string>
+		<key>installer_item_size</key>
+		<integer>12463</integer>
+		<key>minimum_os_version</key>
+		<string>10.5.0</string>
+		<key>name</key>
+		<string>CAH_AnyConnect</string>
+		<key>receipts</key>
+		<array>
+			<dict>
+				<key>installed_size</key>
+				<integer>14649</integer>
+				<key>packageid</key>
+				<string>com.cisco.pkg.anyconnect.vpn</string>
+				<key>version</key>
+				<string>4.2.01035</string>
+			</dict>
+		</array>
+		<key>unattended_install</key>
+		<true/>
+		<key>unattended_uninstall</key>
+		<false/>
+		<key>uninstall_method</key>
+		<string>removepackages</string>
+		<key>uninstallable</key>
+		<true/>
+		<key>version</key>
+		<string>4.2.01035</string>
 	</dict>
 </array>
 </plist>
