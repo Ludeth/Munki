@@ -1,0 +1,6 @@
+# Skip all DMG Files
+*.dmg
+# Skipp all package files
+*.pkg
+*.pkgs
+*.mpkg
