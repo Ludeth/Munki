@@ -8,6 +8,7 @@
 	</array>
 	<key>included_manifests</key>
 	<array>
+		<string>cah_standard_software</string>
 	</array>
 	<key>managed_installs</key>
 	<array>
