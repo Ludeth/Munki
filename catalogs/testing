@@ -3,6 +3,8 @@
 <plist version="1.0">
 <array>
 	<dict>
+		<key>RestartAction</key>
+		<string>RequireRestart</string>
 		<key>autoremove</key>
 		<false/>
 		<key>catalogs</key>
@@ -117,6 +119,8 @@
 		<string>Cisco</string>
 		<key>display_name</key>
 		<string>AnyConnect VPN</string>
+		<key>icon_hash</key>
+		<string>a3526c575d4fa5c97ba71a5ca0728ad7b5def446479ba488fbd3878987dfac17</string>
 		<key>installed_size</key>
 		<integer>34632</integer>
 		<key>installer_item_hash</key>

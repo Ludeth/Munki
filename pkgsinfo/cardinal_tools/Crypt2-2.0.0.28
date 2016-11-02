@@ -60,5 +60,7 @@
 	<true/>
 	<key>version</key>
 	<string>2.0.0.28</string>
+	<key>RestartAction</key>
+	<string>RequireRestart</string>
 </dict>
 </plist>

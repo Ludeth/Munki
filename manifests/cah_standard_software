@@ -11,6 +11,8 @@
 	<key>managed_installs</key>
 	<array>
 		<string>NoMAD</string>
+		<string>Crypt2</string>
+		<string>CAH_AnyConnect</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>
