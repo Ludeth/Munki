@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>LoginwindowText</key>
+			<string>NOTICE: This computer system and associated networks are for the sole business use of Cardinal Health Inc.</string>
+			<key>PayloadDisplayName</key>
+			<string>Login Window</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.a0c8f8e0-7eb9-0134-f6c3-109add54a944.alacarte.loginwindow.ddb255b0-7eb9-0134-f6c4-109add54a944.loginwindow</string>
+			<key>PayloadType</key>
+			<string>com.apple.loginwindow</string>
+			<key>PayloadUUID</key>
+			<string>e5607755-f223-0442-1941-0a284157c615</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SHOWFULLNAME</key>
+			<true/>
+			<key>SHOWOTHERUSERS_MANAGED</key>
+			<false/>
+			<key>com.apple.login.mcx.DisableAutoLoginClient</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>DisableGuestAccount</key>
+			<true/>
+			<key>EnableGuestAccount</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Login Window:  MCX Preferences</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.a0c8f8e0-7eb9-0134-f6c3-109add54a944.alacarte.loginwindow.ddb255b0-7eb9-0134-f6c4-109add54a944.MCX</string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX</string>
+			<key>PayloadUUID</key>
+			<string>aec45a8a-f856-f9ae-cd3e-936c113405c2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Login Window</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.a0c8f8e0-7eb9-0134-f6c3-109add54a944.alacarte.loginwindow.ddb255b0-7eb9-0134-f6c4-109add54a944.managed</string>
+			<key>PayloadType</key>
+			<string>com.apple.SetupAssistant.managed</string>
+			<key>PayloadUUID</key>
+			<string>7e34a9fd-727d-dda9-731f-ec3830b06b08</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SkipCloudSetup</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This sets up the login window for Cardinal Health devices.</string>
+	<key>PayloadDisplayName</key>
+	<string>Cardinal Login Window Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.a0c8f8e0-7eb9-0134-f6c3-109add54a944.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>Cardinal Health</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>a0c8f8e0-7eb9-0134-f6c3-109add54a944</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
