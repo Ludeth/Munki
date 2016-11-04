@@ -13,6 +13,8 @@
 		<string>NoMAD</string>
 		<string>Crypt2</string>
 		<string>CAH_AnyConnect</string>
+		<string>Outset</string>
+		<string>SymantecEndpointProtection</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>
