@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.aa46a1a0-8463-0134-f6d4-109add54a944.alacarte</string>
+	<key>_metadata</key>
+	<dict>
+		<key>created_by</key>
+		<string>edward.shorrock</string>
+		<key>creation_date</key>
+		<date>2016-11-04T02:44:46Z</date>
+		<key>munki_version</key>
+		<string>2.8.2.2870</string>
+		<key>os_version</key>
+		<string>10.12</string>
+	</dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>category</key>
+	<string>base_profiles</string>
+	<key>description</key>
+	<string>Cardinal standard login items.</string>
+	<key>developer</key>
+	<string>Edward Shorrock</string>
+	<key>display_name</key>
+	<string>Cardinal Login Items</string>
+	<key>installer_item_hash</key>
+	<string>33ed6cab7251d743573b91263bf89166b9f4c34c76175f6fa243424a244ee9ae</string>
+	<key>installer_item_location</key>
+	<string>base_profiles/com.cardinalhealth.eit.loginItems-1.0.mobileconfig</string>
+	<key>installer_item_size</key>
+	<integer>1</integer>
+	<key>installer_type</key>
+	<string>profile</string>
+	<key>minimum_munki_version</key>
+	<string>2.2</string>
+	<key>minimum_os_version</key>
+	<string>10.7</string>
+	<key>name</key>
+	<string>LoginItemSettings</string>
+	<key>unattended_install</key>
+	<true/>
+	<key>unattended_uninstall</key>
+	<true/>
+	<key>uninstall_method</key>
+	<string>remove_profile</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>1.0</string>
+</dict>
+</plist>
