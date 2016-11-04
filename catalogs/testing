@@ -238,6 +238,55 @@
 			<string>testing</string>
 		</array>
 		<key>category</key>
+		<string>cardinal-tools</string>
+		<key>description</key>
+		<string>Outset boot script running package.</string>
+		<key>developer</key>
+		<string>Joseph Chilcote</string>
+		<key>display_name</key>
+		<string>Outset</string>
+		<key>installed_size</key>
+		<integer>28</integer>
+		<key>installer_item_hash</key>
+		<string>6e0e572bdd7b6d3c8378da3d13ed0ab0ea96db19251acbc4faa806926eefa9e4</string>
+		<key>installer_item_location</key>
+		<string>cardinal_tools/outset-2.0.3.pkg</string>
+		<key>installer_item_size</key>
+		<integer>8</integer>
+		<key>minimum_os_version</key>
+		<string>10.5.0</string>
+		<key>name</key>
+		<string>Outset</string>
+		<key>receipts</key>
+		<array>
+			<dict>
+				<key>installed_size</key>
+				<integer>28</integer>
+				<key>packageid</key>
+				<string>com.github.outset</string>
+				<key>version</key>
+				<string>2.0.3</string>
+			</dict>
+		</array>
+		<key>unattended_install</key>
+		<true/>
+		<key>unattended_uninstall</key>
+		<false/>
+		<key>uninstall_method</key>
+		<string>removepackages</string>
+		<key>uninstallable</key>
+		<true/>
+		<key>version</key>
+		<string>2.0.3</string>
+	</dict>
+	<dict>
+		<key>autoremove</key>
+		<false/>
+		<key>catalogs</key>
+		<array>
+			<string>testing</string>
+		</array>
+		<key>category</key>
 		<string>antivirus</string>
 		<key>description</key>
 		<string>Cardinal implementation of the Symantec Endpoint Protection for 10.12.x.</string>
