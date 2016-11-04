@@ -13,6 +13,7 @@
 		<string>Crypt2ServerSettings</string>
 		<string>iCloudSettings</string>
 		<string>LoginWindowSettings</string>
+		<string>LoginItemSettings</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>
