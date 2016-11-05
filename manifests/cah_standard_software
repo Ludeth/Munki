@@ -11,7 +11,6 @@
 	<key>managed_installs</key>
 	<array>
 		<string>NoMAD</string>
-		<string>Crypt2</string>
 		<string>CAH_AnyConnect</string>
 		<string>Outset</string>
 		<string>SymantecEndpointProtection</string>
