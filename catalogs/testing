@@ -417,6 +417,55 @@
 		<key>category</key>
 		<string>cardinal_tools</string>
 		<key>description</key>
+		<string>The puppet and factor client installer</string>
+		<key>developer</key>
+		<string>Puppet Labs</string>
+		<key>display_name</key>
+		<string>Puppet</string>
+		<key>installed_size</key>
+		<integer>85136</integer>
+		<key>installer_item_hash</key>
+		<string>74cda0afa7463c3f88c14848eaa245c911f566f5f373c029f368d9297f6ba6d6</string>
+		<key>installer_item_location</key>
+		<string>cardinal_tools/puppet-agent-1.8.0-1-installer-1.8.0.pkg</string>
+		<key>installer_item_size</key>
+		<integer>24077</integer>
+		<key>minimum_os_version</key>
+		<string>10.5.0</string>
+		<key>name</key>
+		<string>puppetAgent</string>
+		<key>receipts</key>
+		<array>
+			<dict>
+				<key>installed_size</key>
+				<integer>85136</integer>
+				<key>packageid</key>
+				<string>com.puppetlabs.puppet-agent</string>
+				<key>version</key>
+				<string>1.8.0</string>
+			</dict>
+		</array>
+		<key>unattended_install</key>
+		<true/>
+		<key>unattended_uninstall</key>
+		<true/>
+		<key>uninstall_method</key>
+		<string>removepackages</string>
+		<key>uninstallable</key>
+		<true/>
+		<key>version</key>
+		<string>1.8.0</string>
+	</dict>
+	<dict>
+		<key>autoremove</key>
+		<false/>
+		<key>catalogs</key>
+		<array>
+			<string>testing</string>
+		</array>
+		<key>category</key>
+		<string>cardinal_tools</string>
+		<key>description</key>
 		<string>Sal client scripts for the machine to checkin to Sal</string>
 		<key>developer</key>
 		<string>Graham Gilbert</string>
