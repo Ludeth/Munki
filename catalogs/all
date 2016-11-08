@@ -4,6 +4,48 @@
 <array>
 	<dict>
 		<key>PayloadIdentifier</key>
+		<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.48884c70-75f7-0134-f6ab-109add54a944.alacarte</string>
+		<key>autoremove</key>
+		<false/>
+		<key>catalogs</key>
+		<array>
+			<string>testing</string>
+		</array>
+		<key>category</key>
+		<string>base_profiles</string>
+		<key>description</key>
+		<string>Profile to install Cardinal Health Certs</string>
+		<key>developer</key>
+		<string>Edward Shorrock</string>
+		<key>display_name</key>
+		<string>Cardinal Health Certificates</string>
+		<key>installer_item_hash</key>
+		<string>49bf4ce9384d892dc30235004215469e42df71e0fe0a87e2130764ea852ee75b</string>
+		<key>installer_item_location</key>
+		<string>base_profiles/com.cardinalhealth.eit.certificates-1.0.mobileconfig</string>
+		<key>installer_item_size</key>
+		<integer>8</integer>
+		<key>installer_type</key>
+		<string>profile</string>
+		<key>minimum_munki_version</key>
+		<string>2.2</string>
+		<key>minimum_os_version</key>
+		<string>10.7</string>
+		<key>name</key>
+		<string>CardinalHealthCerts</string>
+		<key>unattended_install</key>
+		<true/>
+		<key>unattended_uninstall</key>
+		<true/>
+		<key>uninstall_method</key>
+		<string>remove_profile</string>
+		<key>uninstallable</key>
+		<true/>
+		<key>version</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
+		<key>PayloadIdentifier</key>
 		<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.edc7b490-833c-0134-f6d0-109add54a944.alacarte</string>
 		<key>autoremove</key>
 		<false/>
