@@ -14,6 +14,7 @@
 		<string>iCloudSettings</string>
 		<string>LoginWindowSettings</string>
 		<string>LoginItemSettings</string>
+		<string>CardinalHealthCerts</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>

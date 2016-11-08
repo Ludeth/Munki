@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_metadata</key>
+	<dict>
+		<key>created_by</key>
+		<string>edward.shorrock</string>
+		<key>creation_date</key>
+		<date>2016-11-08T20:01:53Z</date>
+		<key>munki_version</key>
+		<string>2.8.2.2870</string>
+		<key>os_version</key>
+		<string>10.12</string>
+	</dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>category</key>
+	<string>cardinal_tools</string>
+	<key>description</key>
+	<string>Sal client scripts for the machine to checkin to Sal</string>
+	<key>developer</key>
+	<string>Graham Gilbert</string>
+	<key>display_name</key>
+	<string>Sal Client Scripts</string>
+	<key>installed_size</key>
+	<integer>248</integer>
+	<key>installer_item_hash</key>
+	<string>f320f59572f53f2bb3022dddcde0d3fd7fea5666311e494055ce33a743056e7f</string>
+	<key>installer_item_location</key>
+	<string>cardinal_tools/sal_scripts-2.0.0.pkg</string>
+	<key>installer_item_size</key>
+	<integer>48</integer>
+	<key>minimum_os_version</key>
+	<string>10.5.0</string>
+	<key>name</key>
+	<string>SalScripts</string>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>installed_size</key>
+			<integer>248</integer>
+			<key>packageid</key>
+			<string>com.github.salopensource.sal_scripts</string>
+			<key>version</key>
+			<string>2.0.0</string>
+		</dict>
+	</array>
+	<key>unattended_install</key>
+	<true/>
+	<key>unattended_uninstall</key>
+	<true/>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>2.0.0</string>
+</dict>
+</plist>
