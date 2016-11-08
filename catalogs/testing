@@ -233,11 +233,13 @@
 		<key>description</key>
 		<string>The standard NoMAD package.</string>
 		<key>developer</key>
-		<string></string>
+		<string>Joel Rennich</string>
 		<key>display_name</key>
 		<string>NoMAD</string>
 		<key>icon_hash</key>
 		<string>80127431b6cc7365f3ac9b2d1e292fced5a31cc86a8b4455ebde7e29a78ec2c2</string>
+		<key>icon_name</key>
+		<string>NoMAD.png</string>
 		<key>installed_size</key>
 		<integer>6406</integer>
 		<key>installer_item_hash</key>
