@@ -213,6 +213,48 @@
 		<string>1.0</string>
 	</dict>
 	<dict>
+		<key>PayloadIdentifier</key>
+		<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.78ae2e40-79f4-0134-f6b6-109add54a944.alacarte</string>
+		<key>autoremove</key>
+		<false/>
+		<key>catalogs</key>
+		<array>
+			<string>testing</string>
+		</array>
+		<key>category</key>
+		<string>base_profiles</string>
+		<key>description</key>
+		<string>Password setting restrictions for Cardinal Macs</string>
+		<key>developer</key>
+		<string>Edward Shorrock</string>
+		<key>display_name</key>
+		<string>Cardinal Health Password Settings</string>
+		<key>installer_item_hash</key>
+		<string>68437a41725d86dac82e66f40605d9af35a4fb044305c57bc3b3993b707faaf5</string>
+		<key>installer_item_location</key>
+		<string>base_profiles/com.cardinalhealth.eit.passwordSettings-1.0.mobileconfig</string>
+		<key>installer_item_size</key>
+		<integer>1</integer>
+		<key>installer_type</key>
+		<string>profile</string>
+		<key>minimum_munki_version</key>
+		<string>2.2</string>
+		<key>minimum_os_version</key>
+		<string>10.7</string>
+		<key>name</key>
+		<string>PasswordSettings</string>
+		<key>unattended_install</key>
+		<true/>
+		<key>unattended_uninstall</key>
+		<true/>
+		<key>uninstall_method</key>
+		<string>remove_profile</string>
+		<key>uninstallable</key>
+		<true/>
+		<key>version</key>
+		<string>1.0</string>
+	</dict>
+	<dict>
 		<key>RestartAction</key>
 		<string>RequireRestart</string>
 		<key>autoremove</key>

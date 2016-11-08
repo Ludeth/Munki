@@ -15,6 +15,7 @@
 		<string>LoginWindowSettings</string>
 		<string>LoginItemSettings</string>
 		<string>CardinalHealthCerts</string>
+		<string>PasswordSettings</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>

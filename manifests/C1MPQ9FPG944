@@ -13,6 +13,7 @@
 	</array>
 	<key>managed_installs</key>
 	<array>
+		<string>Crypt2</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>
