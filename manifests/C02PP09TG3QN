@@ -7,14 +7,11 @@
 	</array>
 	<key>included_manifests</key>
 	<array>
+		<string>cah_standard_profiles</string>
+		<string>cah_standard_software</string>
 	</array>
 	<key>managed_installs</key>
 	<array>
-		<string>iCloudSettings</string>
-		<string>LoginWindowSettings</string>
-		<string>LoginItemSettings</string>
-		<string>PasswordSettings</string>
-		<string>CardinalHealthCertsSHA2</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>

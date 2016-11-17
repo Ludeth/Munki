@@ -15,7 +15,6 @@
 		<string>Outset</string>
 		<string>SymantecEndpointProtection</string>
 		<string>SalScripts</string>
-		<string>puppetAgent</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>
