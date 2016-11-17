@@ -13,6 +13,7 @@
 	</array>
 	<key>managed_installs</key>
 	<array>
+		<string>Office2016Mac</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>
