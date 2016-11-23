@@ -9,7 +9,6 @@
 	<key>included_manifests</key>
 	<array>
 		<string>cah_standard_software</string>
-		<string>cah_standard_profiles</string>
 	</array>
 	<key>managed_installs</key>
 	<array>
