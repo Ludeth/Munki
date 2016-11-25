@@ -13,6 +13,7 @@
 		<string>CAH_AnyConnect</string>
 		<string>Outset</string>
 		<string>SymantecEndpointProtection</string>
+		<string>NoMAD</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>
