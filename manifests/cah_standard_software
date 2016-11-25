@@ -13,8 +13,6 @@
 		<string>CAH_AnyConnect</string>
 		<string>Outset</string>
 		<string>SymantecEndpointProtection</string>
-		<string>SalScripts</string>
-		<string>NoMad091</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>

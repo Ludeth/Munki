@@ -58,6 +58,8 @@
 	<string>removepackages</string>
 	<key>uninstallable</key>
 	<true/>
+	<key>RestartAction</key>
+	<string>RequireRestart</string>
 	<key>version</key>
 	<string>12.1.7061.6600</string>
 </dict>
