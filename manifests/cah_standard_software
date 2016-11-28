@@ -14,6 +14,7 @@
 		<string>Outset</string>
 		<string>SymantecEndpointProtection</string>
 		<string>NoMAD</string>
+		<string>SkypeForBusinessMac</string>
 	</array>
 	<key>managed_uninstalls</key>
 	<array>

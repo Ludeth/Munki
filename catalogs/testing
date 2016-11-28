@@ -474,5 +474,62 @@
 		<key>version</key>
 		<string>2016</string>
 	</dict>
+	<dict>
+		<key>autoremove</key>
+		<false/>
+		<key>catalogs</key>
+		<array>
+			<string>testing</string>
+		</array>
+		<key>category</key>
+		<string>office</string>
+		<key>description</key>
+		<string>General Skype for Business Installer</string>
+		<key>developer</key>
+		<string>Microsoft</string>
+		<key>display_name</key>
+		<string>Skype for Business Mac</string>
+		<key>installed_size</key>
+		<integer>84539</integer>
+		<key>installer_item_hash</key>
+		<string>c7364b51dd3084e7054941396395b2a0bf7f4bd18953d8286940ed798ede3f11</string>
+		<key>installer_item_location</key>
+		<string>office/SkypeForBusinessInstaller-16.1.0.456.pkg</string>
+		<key>installer_item_size</key>
+		<integer>31329</integer>
+		<key>minimum_os_version</key>
+		<string>10.5.0</string>
+		<key>name</key>
+		<string>SkypeForBusinessMac</string>
+		<key>receipts</key>
+		<array>
+			<dict>
+				<key>installed_size</key>
+				<integer>76869</integer>
+				<key>packageid</key>
+				<string>com.microsoft.SkypeForBusiness</string>
+				<key>version</key>
+				<string>16.1.456</string>
+			</dict>
+			<dict>
+				<key>installed_size</key>
+				<integer>7670</integer>
+				<key>packageid</key>
+				<string>com.microsoft.package.component</string>
+				<key>version</key>
+				<string>0</string>
+			</dict>
+		</array>
+		<key>unattended_install</key>
+		<true/>
+		<key>unattended_uninstall</key>
+		<true/>
+		<key>uninstall_method</key>
+		<string>removepackages</string>
+		<key>uninstallable</key>
+		<true/>
+		<key>version</key>
+		<string>16.1.0.456</string>
+	</dict>
 </array>
 </plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_metadata</key>
+	<dict>
+		<key>created_by</key>
+		<string>edward.shorrock</string>
+		<key>creation_date</key>
+		<date>2016-11-28T20:23:17Z</date>
+		<key>munki_version</key>
+		<string>2.8.2.2870</string>
+		<key>os_version</key>
+		<string>10.12.1</string>
+	</dict>
+	<key>autoremove</key>
+	<false/>
+	<key>catalogs</key>
+	<array>
+		<string>testing</string>
+	</array>
+	<key>category</key>
+	<string>office</string>
+	<key>description</key>
+	<string>General Skype for Business Installer</string>
+	<key>developer</key>
+	<string>Microsoft</string>
+	<key>display_name</key>
+	<string>Skype for Business Mac</string>
+	<key>installed_size</key>
+	<integer>84539</integer>
+	<key>installer_item_hash</key>
+	<string>c7364b51dd3084e7054941396395b2a0bf7f4bd18953d8286940ed798ede3f11</string>
+	<key>installer_item_location</key>
+	<string>office/SkypeForBusinessInstaller-16.1.0.456.pkg</string>
+	<key>installer_item_size</key>
+	<integer>31329</integer>
+	<key>minimum_os_version</key>
+	<string>10.5.0</string>
+	<key>name</key>
+	<string>SkypeForBusinessMac</string>
+	<key>receipts</key>
+	<array>
+		<dict>
+			<key>installed_size</key>
+			<integer>76869</integer>
+			<key>packageid</key>
+			<string>com.microsoft.SkypeForBusiness</string>
+			<key>version</key>
+			<string>16.1.456</string>
+		</dict>
+		<dict>
+			<key>installed_size</key>
+			<integer>7670</integer>
+			<key>packageid</key>
+			<string>com.microsoft.package.component</string>
+			<key>version</key>
+			<string>0</string>
+		</dict>
+	</array>
+	<key>unattended_install</key>
+	<true/>
+	<key>unattended_uninstall</key>
+	<true/>
+	<key>uninstall_method</key>
+	<string>removepackages</string>
+	<key>uninstallable</key>
+	<true/>
+	<key>version</key>
+	<string>16.1.0.456</string>
+</dict>
+</plist>
