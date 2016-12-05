@@ -18,5 +18,9 @@
 	<key>managed_uninstalls</key>
 	<array>
 	</array>
+	<key>optional_installs</key>
+	<array>
+		<string>VirtualBox</string>
+	</array>
 </dict>
 </plist>
